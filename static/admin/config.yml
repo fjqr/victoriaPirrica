@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: https://github.com/fjqr/victoriaPirrica
   branch: master
 
   media_folder: "images/uploads"
